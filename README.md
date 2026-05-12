@@ -3,7 +3,7 @@
 
 Dashboard e análise de 7 anos de histórico musical.
 
-[Ver projeto](https://rodneytakemi.github.io/spotify-curadoria/)
+[Ver resultados do projeto](https://rodneytakemi.github.io/spotify-curadoria/)
 
 ## Notebooks
 - [NB1 — Engenharia de features](https://nbviewer.org/github/rodneytakemi/spotify-curadoria/blob/main/notebooks/nb1.ipynb")
