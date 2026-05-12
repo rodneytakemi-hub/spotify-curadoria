@@ -1,6 +1,6 @@
 # Spotify Curadoria
 
-Este projeto analisa 7 anos de histórico de escuta pessoal no Spotify — 28 mil execuções, 9 mil músicas únicas. O passado é explorado através de análises e visualizações interativas de comportamento musical. O presente é interpretado por técnicas de machine learning: Item2Vec, PCA, GMM e Cadeias de Markov. O futuro são três playlists personalizadas, geradas a partir de tudo isso.
+Este projeto analisa 7 anos de histórico de escuta pessoal no Spotify — 32 mil execuções, 9 mil músicas únicas. O passado é explorado através de análises e visualizações interativas de comportamento musical. O presente é interpretado por técnicas de machine learning: Item2Vec, PCA, GMM e Cadeias de Markov. O futuro são três playlists personalizadas, geradas a partir de tudo isso.
 
 🎵 [Ver resultados do projeto](https://rodneytakemi.github.io/spotify-curadoria/)
 
@@ -20,7 +20,7 @@ Python · Pandas · Gensim · scikit-learn · Plotly · Google Colab
 
 # Spotify Curation
 
-This project analyzes 7 years of personal Spotify listening history — 28,000 plays, 9,000 unique tracks. The past is explored through interactive visualizations of musical behavior. The present is interpreted through machine learning: Item2Vec, PCA, GMM, and Markov Chains. The future is three personalized playlists, generated from all of it.
+This project analyzes 7 years of personal Spotify listening history — 32,000 plays, 9,000 unique tracks. The past is explored through interactive visualizations of musical behavior. The present is interpreted through machine learning: Item2Vec, PCA, GMM, and Markov Chains. The future is three personalized playlists, generated from all of it.
 
 🎵 [View project results](https://rodneytakemi.github.io/spotify-curadoria/)
 
